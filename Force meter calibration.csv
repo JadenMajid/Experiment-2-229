@@ -1,4 +1,4 @@
-mass (kg),u[mass] (kg),scale (kg),u[scale] (kg)
+#mass (kg),u[mass] (kg),scale (kg),u[scale] (kg)
 0.2,0.002,0.399,3.00E-03
 0.3,0.003,0.555,2.00E-03
 0.4,0.004,7.41E-01,1.00E-03
